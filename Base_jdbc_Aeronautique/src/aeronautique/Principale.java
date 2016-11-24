@@ -24,7 +24,7 @@ public class Principale {
 		//Connexion.afficheSelectEtoile("vol", "");
 		/*GregorianCalendar hDep = new GregorianCalendar(2016,8,22,8,11,21);
 		GregorianCalendar hArr = new GregorianCalendar(2016,8,22,9,32,54);
-		//Vol obj = new Vol(9,3,3,"Rennes","Paris",hDep, hArr);
+		Vol obj = new Vol(9,3,3,"Rennes","Paris",hDep, hArr);
 		VolDAO vol = new VolDAO();
 		Vol obj = vol.find(6);
 		System.out.println(obj);*/
